@@ -1,4 +1,4 @@
-# thinkpalm-agentai--Soorya-MS---Lab-1-ReAct-Agent-
+# thinkpalm-agentai-SooryaMS-Lab 1-ReActAgent
 **This project demonstrates a minimal Python ReAct agent that reasons step by step, uses a calculator tool, and answers a real‑world phone battery query, executed successfully in Google Colab.**
 
 **User Query** -If my phone battery is 80% and it drains 10% per hour, how long will it last?
